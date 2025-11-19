@@ -124,24 +124,18 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
  <img width="1918" height="1079" alt="Screenshot 2025-09-24 204322" src="https://github.com/user-attachments/assets/42b16705-c5aa-4c79-8d34-4dc9f32fc52a" />
 
-## DNS Recon:
-  
-<img width="1012" height="574" alt="Screenshot 2025-10-26 180100" src="https://github.com/user-attachments/assets/c193efaa-19fd-4535-842a-de619aafdbe9" />
 
 ## dnsenum:
-<img width="1020" height="788" alt="Screenshot 2025-10-26 180130" src="https://github.com/user-attachments/assets/a01a00a7-7ccc-4655-b6d8-a5d058c232bc" />
+
 
 
 
 ## smtp-user-enum
-<img width="792" height="358" alt="Screenshot 2025-10-26 180215" src="https://github.com/user-attachments/assets/83989afc-d8dc-4579-9f54-62c4e65d8e27" />
-<img width="891" height="439" alt="Screenshot 2025-10-26 180206" src="https://github.com/user-attachments/assets/a56056cb-5c88-40ef-81b3-6de0c3df7719" />
 
 ## Telnet:
-<img width="878" height="441" alt="Screenshot 2025-10-26 180225" src="https://github.com/user-attachments/assets/7cce001f-253d-446f-a34c-dbb933982f08" />
 
 ## nmap –script smtp-enum-users.nse:
-<img width="764" height="277" alt="Screenshot 2025-10-26 180422" src="https://github.com/user-attachments/assets/06299816-5f07-4c4c-9d53-8f7214ac239a" />
+
  
 
 
